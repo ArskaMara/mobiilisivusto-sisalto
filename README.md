@@ -69,3 +69,9 @@ Kaikki sivustolla käytetyt kuvat on ladattu Freepik-palvelusta.
 Kuvat käytössä Freepikin käyttöehtojen mukaisesti.
 
 Image by Freepik from www.freepik.com
+
+Tekoälyn käyttö
+
+Osa sivuston tekstisisällöstä on tuotettu tekoälyä apuna käyttäen.
+Tekstit on muokattu ja tarkistettu itse, ja niitä käytetään
+sisältömateriaalina mobiiliystävällisen web-sivuston suunnittelua varten.
