@@ -62,3 +62,10 @@ Kaikki kuvat on valittu Freepik-palvelusta ja niitä käytetään Freepikin käy
 
 Kuvien lähde:
 https://www.freepik.com/free-photos-vectors/gaming
+
+Kuvien tekijänoikeudet
+
+Kaikki sivustolla käytetyt kuvat on ladattu Freepik-palvelusta.
+Kuvat käytössä Freepikin käyttöehtojen mukaisesti.
+
+Image by Freepik from www.freepik.com
